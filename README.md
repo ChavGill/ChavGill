@@ -1,29 +1,37 @@
 
 ![Full-Stack Web Developer](https://github.com/ChavGill/ChavGill/blob/main/full%20stack.jpg)
-### Salutations, my name is Chavis Gill.
-#### Full-Stack Web Developer
+<h1 align="center">Hi 👋, I'm Chavis Gill</h1>
+<h3 align="center">I am a Full Stack Web Developer. Continuous learning and problem-solving are essential to my core as a former teacher.</h3>
 
-I am a Full Stack Web Developer. Continuous learning and problem-solving are essential to my core as a former teacher. I am a musician, a family man, and a 12 handicap.
+<p align="left"> <a href="https://twitter.com/iamkingchav" target="blank"><img src="https://img.shields.io/twitter/follow/iamkingchav?logo=twitter&style=for-the-badge" alt="iamkingchav" /></a> </p>
 
-Skills: HTML/CSS/JavaScript/Node/MongoDB
+- 🔭 I’m currently working on **Client Websites**
 
-- 🔭 I’m currently working on client websites.  
-- 🌱 I’m currently learning back-end and databases. 
-- 👯 I’m looking to collaborate on open source projects, especially for newer developers. 
-- 🤔 I’m looking for help with entering the workforce. Let's chat and see If I am referral worthy. 
-- 💬 Ask me about anything really. If i don't know the answer, I'll help you find the way.  
-- 📫 How to reach me: chavistgill@gmail.com 
-- 😄 Pronouns: HIM 
-- ⚡ Fun fact: I have a distribution deal and have had my music on ESPN, Amazon, NFL Network. 
+- 👯 I’m looking to collaborate on **any open source projects, especially for beginners**
 
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://royalwedesigns.netlify.app/)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChavGill)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/chavis-gill-688071157//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iamkingchav/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iamkingchav)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/KingChav)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://royalwedesigns.netlify.app/)  
+- 💬 Ask me about **Websites, HTML5, CSS and general coding ideas**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChavGill)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **chavistgill@gmail.com**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChavGill&show_icons=true)  
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19HsAfJ6bRew39sMjH7j-6whPqIAu2nao/view?usp=sharing)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChavGill)  
+- ⚡ Fun fact **I am also a rapper. Signed with a distribution deal.**
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ChavGill)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/iamkingchav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamkingchav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/chavis-gill-688071157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chavis-gill-688071157/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19168548/chavgill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19168548/chavgill" height="30" width="40" /></a>
+<a href="https://www.facebook.com/chavis.gill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chavis gill" height="30" width="40" /></a>
+<a href="https://instagram.com/iamkingchav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamkingchav" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/king chav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="king chav" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chavgill&show_icons=true&locale=en&layout=compact" alt="chavgill" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chavgill&" alt="chavgill" /></p>
