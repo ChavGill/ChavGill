@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Chavis Gill.
 #### Full-Stack Web Developer
-[Full-Stack Web Developer](https://github.com/ChavGill/ChavGill/blob/main/full%20stack.jpg)
+![Full-Stack Web Developer](https://github.com/ChavGill/ChavGill/blob/main/full%20stack.jpg)
 
 I am a Full Stack Web Developer. Continuous learning and problem-solving are essential to my core as a former teacher. I am a musician, a family man, and a 12 handicap.
 
