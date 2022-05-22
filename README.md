@@ -34,9 +34,9 @@
 <table style="width:100%" >
   <tbody>
     <tr>
-      <td height="350"><h3 align=center>King Chav</h3><a href="https://www.kingchav.com/"><img src="https://github.com/ChavGill/ChavGill/blob/main/kc.gif" width=auto height=auto/></a></td>
-      <td height="350"><h3 align=center>Next Level Up Game Bus</h3><a href="https://www.nlugamebus.com/"><img src="https://github.com/ChavGill/ChavGill/blob/main/nlu.gif" width=auto height=auto/></a></td>
-      <td height="350"><h3 align=center>The WkNd Radio Show</h3><a href="https://www.thewkndradioshow.com/"><img src="https://github.com/ChavGill/ChavGill/blob/main/wknd.gif" width=auto height=auto/></a></td>
+      <td height="350"><h3 align=center><a href="https://www.kingchav.com/">King Chav</a></h3><img src="https://github.com/ChavGill/ChavGill/blob/main/kc.gif" width=auto height=auto/></td>
+      <td height="350"><h3 align=center><a href="https://www.nlugamebus.com/">Next Level Up Game Bus</a></h3><img src="https://github.com/ChavGill/ChavGill/blob/main/nlu.gif" width=auto height=auto/></td>
+      <td height="350"><h3 align=center><a href="https://www.thewkndradioshow.com/">The WkNd Radio Show</a></h3><img src="https://github.com/ChavGill/ChavGill/blob/main/wknd.gif" width=auto height=auto/></td>
       
    
   </tbody>
