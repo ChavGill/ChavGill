@@ -43,4 +43,4 @@
 </table>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chavgill&" alt="chavgill" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chavgill&" alt="chavgill" width=100%/></p>
