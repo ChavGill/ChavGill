@@ -1,6 +1,6 @@
 
 ![Full-Stack Web Developer](https://github.com/ChavGill/ChavGill/blob/main/full%20stack.jpg)
-<h1 align="center">Hi 👋, I'm Chavis Gill</h1>
+<h1 align="center">Salutations, I'm Chavis Gill</h1>
 <h3 align="center">I am a Full Stack Web Developer. Continuous learning and problem-solving are essential to my core as a former teacher.</h3>
 
 <p align="left"> <a href="https://twitter.com/iamkingchav" target="blank"><img src="https://img.shields.io/twitter/follow/iamkingchav?logo=twitter&style=for-the-badge" alt="iamkingchav" /></a> </p>
