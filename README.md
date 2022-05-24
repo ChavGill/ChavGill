@@ -16,6 +16,11 @@
 - 📄 Looking to hire a developer? I would love to join your team: [Resume](https://drive.google.com/file/d/19HsAfJ6bRew39sMjH7j-6whPqIAu2nao/view?usp=sharing)
 
 - ⚡ Fun fact **I am also a rapper. Signed with a distribution deal.**
+## My Soundtrack
+
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/044Qc5qcUiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
