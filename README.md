@@ -34,28 +34,53 @@
 
 ## Projects
 <table style="width:100%" align=center>
-  <tbody >
+  <tbody>
+	  <!--King Chav-->
     <tr>
       <td height="650"><h3 align=center>
         <a href="https://www.kingchav.com/">King Chav</a></h3>
         <div align="center">
-        <img src="https://github.com/ChavGill/ChavGill/blob/main/kc.gif" width=100% height=auto/><a href="https://coronavirusworlddata.netlify.app/">
+        <img src="https://github.com/ChavGill/ChavGill/blob/main/kc.gif" width=100% height=auto/>
         <br>
         <br>
-							<a href="https://www.kingchav.com/">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" />
-						</a>	
-						</a>
+		<a href="https://www.kingchav.com/">
+		<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" />
+			</a>	
+			</a>
         </div>
       </td></tr>
+      <!--Next Level-->
     <tr>
-      <td height="350"><h3 align=center>
+      <td height="650"><h3 align=center>
         <a href="https://www.nlugamebus.com/">Next Level Up Game Bus</a></h3>
-        
+        <div align="center">
         <img src="https://github.com/ChavGill/ChavGill/blob/main/nlu.gif" width=100% height=auto/>
-        
-      </td></tr>
-   <tr>   <td height="350"><h3 align=center><a href="https://www.thewkndradioshow.com/">The WkNd Radio Show</a></h3><img src="https://github.com/ChavGill/ChavGill/blob/main/wknd.gif" width=100% height=auto/></td></tr>
+	<br>
+	<br>
+		<a href="https://www.nlugamebus.com/">
+		<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" />
+		<a href='https://github.com/ChavGill/NLUGameBus'>
+		<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+		</a> 
+			</a>	
+			</a>
+        </div>
+	        <!--WkNd-->
+      
+   <tr>   
+	   <td height="650"><h3 align=center>
+		   <a href="https://www.thewkndradioshow.com/">The WkNd Radio Show</a></h3>
+		   <div align="center">
+		   <img src="https://github.com/ChavGill/ChavGill/blob/main/wknd.gif" width=100% height=auto/>
+		   <br>
+		   <br>
+			   
+		<a href="https://www.thewkndradioshow.com/">
+		<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" />
+			   </a>
+			   </a>
+			</div>
+	   </td></tr>
       
    
   </tbody>
