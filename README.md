@@ -47,6 +47,7 @@
 		<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" />
 			</a>	
 			</a>
+	      <p>A personal website built to showcase my music career and achievements</p>
         </div>
       </td></tr>
       <!--Next Level-->
@@ -64,6 +65,10 @@
 		</a> 
 			</a>	
 			</a>
+	      	<br>
+	      <p><strong>HTML, CSS, JavaScript</strong></p>
+	      <br>
+		<p>A freelance client website built to highlight a Black owned gaming bus</p>
         </div>
 	        <!--WkNd-->
       
@@ -78,7 +83,7 @@
 		<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" />
 			</a>	
 			</a>
-		   <p>a whole new wolrd</p>
+		   <p>A freelance webiste created for a radio and TV show.</p>
         </div>
       </td></tr>
    
