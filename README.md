@@ -76,7 +76,7 @@
 	   <td height="650"><h3 align=center>
 		   <a href="https://www.thewkndradioshow.com/">The WkNd Radio Show</a></h3>
 		 <div align="center">
-        <img src="https://github.com/ChavGill/ChavGill/blob/main/kc.gif" width=100% height=auto/>
+        <img src="https://github.com/ChavGill/ChavGill/blob/main/wknd.gif" width=100% height=auto/>
         <br>
         <br>
 		<a href="https://www.kingchav.com/">
