@@ -68,7 +68,7 @@
 	      	<br>
 	      <p><strong>HTML, CSS, JavaScript</strong></p>
 	      <br>
-		<p>A freelance client website built to highlight a Black owned gaming bus</p>
+		<p>A freelance client website built to highlight a Black owned gaming bus company. This site helped them to secure multiple contracts.</p>
         </div>
 	        <!--WkNd-->
       
