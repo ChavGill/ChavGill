@@ -68,7 +68,7 @@
 	      	<br>
 	      <p><strong>HTML, CSS, JavaScript</strong></p>
 	      <br>
-		<p>A freelance client website built to highlight a Black owned gaming bus company. This site helped them to secure multiple contracts.</p>
+		<p>A freelance client website built to highlight a Black-owned gaming bus company. This site helped them to secure multiple contracts.</p>
         </div>
 	        <!--WkNd-->
       
@@ -83,7 +83,7 @@
 		<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" />
 			</a>	
 			</a>
-		   <p>A freelance webiste created for a radio and TV show.</p>
+		   <p>A freelance webiste created for a radio and TV show. One of my early works. </p>
         </div>
       </td></tr>
    
