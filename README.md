@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Client Websites and Personal Apps**
 
-- 👯 I’m looking to collaborate on **any open source projects, especially for beginners**
+- 👯 I’m looking to collaborate on **filling out your roster. I am open to work. Also, any open source projects, especially entry. **
 
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://royalwedesigns.netlify.app/)
 
