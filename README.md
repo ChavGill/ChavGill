@@ -74,16 +74,18 @@
       
    <tr>   
 	   <td height="650"><h3 align=center>
-		   <a href="https://www.thewkndradioshow.com/">The WkNd Radio Show</a></h3>
+		   <a href="https://htmltemplatechavisgill.netlify.app/">HTML E-mail Template</a></h3>
 		 <div align="center">
-        <img src="https://github.com/ChavGill/ChavGill/blob/main/wknd.gif" width=100% height=auto/>
+        <img src="https://github.com/ChavGill/ChavGill/blob/main/emailtemplategif.gif" width=100% height=auto/>
         <br>
         <br>
-		<a href="https://www.kingchav.com/">
+		<a href="https://htmltemplatechavisgill.netlify.app">
 		<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" />
+		<a href='https://github.com/ChavGill/html-email-template'>
+		<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 			</a>	
 			</a>
-		   <p>A freelance webiste created for a radio and TV show. One of my early works. </p>
+		   <p>A HTML e-mail template that is responsive for mobile and desktop. </p>
         </div>
       </td></tr>
    
