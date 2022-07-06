@@ -76,7 +76,7 @@
 	   <td height="650"><h3 align=center>
 		   <a href="https://htmltemplatechavisgill.netlify.app/">HTML E-mail Template</a></h3>
 		 <div align="center">
-        <img src="https://github.com/ChavGill/ChavGill/blob/main/emailtemplateg.gif" width=100% height=auto/>
+        <img src="https://github.com/ChavGill/ChavGill/blob/main/emailtemplate.gif" width=100% height=auto/>
         <br>
         <br>
 		<a href="https://htmltemplatechavisgill.netlify.app">
