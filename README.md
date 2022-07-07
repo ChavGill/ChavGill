@@ -85,7 +85,7 @@
 		<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 			</a>	
 			</a>
-			<p><strong>HTML, CSS, JavaScript</strong></p>
+			<p><strong>HTML, CSS</strong></p>
 			<br>
 		   <p>A HTML e-mail template that is responsive for mobile and desktop. </p>
         </div>
