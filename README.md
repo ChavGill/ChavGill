@@ -38,16 +38,20 @@
 	  <!--King Chav-->
     <tr>
       <td height="650"><h3 align=center>
-        <a href="https://www.kingchav.com/">King Chav</a></h3>
+        <a href="https://whitcollinsstudio.netlify.app/">Whit Collins Studio</a></h3>
         <div align="center">
-        <img src="https://github.com/ChavGill/ChavGill/blob/main/kc.gif" width=100% height=auto/>
+        <img src="https://github.com/ChavGill/ChavGill/blob/main/whit.gif" width=100% height=auto/>
         <br>
         <br>
-		<a href="https://www.kingchav.com/">
+		<a href="https://whitcollinsstudio.netlify.app/">
 		<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" />
+		<a href='https://github.com/ChavGill/whit-collins-studio'>
+		<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 			</a>	
 			</a>
-	      <p>A personal website built to showcase my music career and achievements</p>
+				<br>
+	      <p><strong>HTML, CSS, JavaScript</strong></p>
+	      <p>A client built site to showcase their services, location and their owner.</p>
         </div>
       </td></tr>
       <!--Next Level-->
@@ -62,7 +66,6 @@
 		<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" />
 		<a href='https://github.com/ChavGill/NLUGameBus'>
 		<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-		</a> 
 			</a>	
 			</a>
 	      	<br>
