@@ -77,7 +77,7 @@
       
    <tr>   
 	   <td height="650"><h3 align=center>
-		   <a href="https://htmltemplatechavisgill.netlify.app/">HTML E-mail Template </a></h3>
+		   <a href="https://htmltemplatechavisgill.netlify.app/">The Church 3:20 E-mail Template </a></h3>
 		 <div align="center">
         <img src="https://github.com/ChavGill/ChavGill/blob/main/church email.gif" width=100% height=auto/>
         <br>
@@ -90,7 +90,7 @@
 			</a>
 			<p><strong>HTML, CSS</strong></p>
 			<br>
-		   <p>A HTML e-mail template that is responsive for mobile and desktop. </p>
+		   <p>A HTML e-mail template that is responsive for mobile and desktop, specifically designed for a client church. </p>
         </div>
       </td></tr>
    
