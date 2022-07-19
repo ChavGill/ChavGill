@@ -51,7 +51,7 @@
 			</a>
 				<br>
 	      <p><strong>HTML, CSS, JavaScript</strong></p>
-	      <p>A client built site to showcase their services, location and their owner.</p>
+	      <p>A freelance client built site to showcase their services, location and their owner.</p>
         </div>
       </td></tr>
       <!--Next Level-->
