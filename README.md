@@ -90,7 +90,7 @@
 			</a>
 			<p><strong>HTML, CSS</strong></p>
 			<br>
-		   <p>A HTML e-mail template that is responsive for mobile and desktop, specifically designed for a client church. </p>
+		   <p>A HTML e-mail template that is responsive for mobile and desktop, specifically designed for a client church for weekly and quarterly updates. </p>
         </div>
       </td></tr>
    
