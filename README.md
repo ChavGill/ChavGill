@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamkingchav" target="blank"><img src="https://img.shields.io/twitter/follow/iamkingchav?logo=twitter&style=for-the-badge" alt="iamkingchav" /></a> </p>
 
-- 🔭 I’m currently working on **Client Websites and Personal Apps**
+- 🔭 I’m currently working on **Client Websites and Personal Apps and Projects**
 
 - 👯 I’m looking to collaborate on **filling out your roster. I am open to work. Also, any open source projects, especially entry. **
 
