@@ -35,7 +35,7 @@
 ## Projects
 <table style="width:100%" align=center>
   <tbody>
-	  <!--King Chav-->
+	  <!--Whit Collins-->
     <tr>
       <td height="650"><h3 align=center>
         <a href="https://whitcollinsstudio.netlify.app/">Whit Collins Studio</a></h3>
@@ -73,7 +73,7 @@
 	      <br>
 		<p>A freelance client website built to highlight a Black-owned gaming bus company. This site helped them to secure multiple contracts worth 4 figures.</p>
         </div>
-	        <!--WkNd-->
+	        <!--Email-->
       
    <tr>   
 	   <td height="650"><h3 align=center>
