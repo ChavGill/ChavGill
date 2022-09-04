@@ -15,7 +15,7 @@
 
 - 📄 Looking to hire a developer? I would love to join your team: [Resume](https://drive.google.com/file/d/1eAn0aa0o0xodYCjNq-jZHRNbW_a8n5H9/view?usp=sharing)
 
-- ⚡ Fun fact **I am also a rapper. Signed with a distribution deal.**
+- ⚡ Fun fact **I am also a rapper. Signed with a distribution deal. Also an expectant father!**
 
 
 <h3 align="left">Connect with me:</h3>
