@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **filling out your roster. I am open to work. Also, any open source projects, especially entry. **
 
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://royalwedesigns.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://www.chavisgilldev.com/)
 
 - 📫 How to reach me **chavistgill@gmail.com**
 
