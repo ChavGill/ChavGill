@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chavistgill@gmail.com**
 
-- 📄 Looking to hire a developer? I would love to join your team: [Resume](https://drive.google.com/file/d/1CmKCnsO-Vkmp7QRZwvHo2p0Y6jvo_VXt/view?usp=sharing)
+- 📄 Looking to hire a developer? I would love to join your team: [Resume](https://drive.google.com/file/d/1CmKCnsO-Vkmp7QRZwvHo2p0Y6jvo_VXt/view?usp=sharing))
 
 - ⚡ Fun fact **I am also a rapper. Signed with a distribution deal. Also an expectant father!**
 
