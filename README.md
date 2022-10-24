@@ -35,6 +35,27 @@
 ## Projects
 <table style="width:100%" align=center>
   <tbody>
+          <!--BC-->
+      
+   <tr>   
+	   <td height="650"><h3 align=center>
+		   <a href="https://htmltemplatechavisgill.netlify.app/">Black Chalkboard</a></h3>
+		 <div align="center">
+        <img src="https://github.com/ChavGill/ChavGill/blob/main/blackchalkboard.gif" width=100% height=auto/>
+        <br>
+        <br>
+		<a href="https://blackchalkboard.up.railway.app/">
+		<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" />
+		<a href='https://github.com/ChavGill/BlackChalkboardFinal'>
+		<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+			</a>	
+			</a>
+			<p><strong>JavaScript, EJS, Node, Express, MongoDB, Bootstrap</strong></p>
+			<br>
+		   <p>Black Chalkboard is a back office web tool to enhance the knowledge and experience of your teaching staff.
+Here, you can create a database of the students in your school and to include all the necessary details a teacher would need to provide the best learning experience.</p>
+        </div>
+	 </td></tr>
 	  <!--Whit Collins-->
     <tr>
       <td height="650"><h3 align=center>
@@ -73,26 +94,10 @@
 	      <br>
 		<p>A freelance client website built to highlight a Black-owned gaming bus company. This site helped them to secure multiple contracts worth thousands of dollars.</p>
         </div>
-	        <!--Email-->
+	        <!--BC-->
       
-   <tr>   
-	   <td height="650"><h3 align=center>
-		   <a href="https://htmltemplatechavisgill.netlify.app/">The Church 3:20 E-mail Template </a></h3>
-		 <div align="center">
-        <img src="https://github.com/ChavGill/ChavGill/blob/main/church email.gif" width=100% height=auto/>
-        <br>
-        <br>
-		<a href="https://320churchemail.netlify.app/">
-		<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500" />
-		<a href='https://github.com/ChavGill/Church-HTML-E-mail'>
-		<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-			</a>	
-			</a>
-			<p><strong>HTML, CSS</strong></p>
-			<br>
-		   <p>A HTML e-mail template that is responsive for mobile and desktop, specifically designed for a client church for weekly and quarterly updates of events and news. </p>
-        </div>
-      </td></tr>
+   
+     
    
   </tbody>
 </table>
