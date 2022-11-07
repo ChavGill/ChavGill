@@ -52,7 +52,7 @@
 			</a>
 			<p><strong>JavaScript, EJS, Node, Express, MongoDB, Bootstrap</strong></p>
 			<br>
-		   <p>Black Chalkboard is a back office web tool to enhance the knowledge and experience of your teaching staff.
+		   <p>Black Chalkboard is a back office web tool to enhance the knowledge and experience of your entire teaching staff.
 Here, you can create a database of the students in your school and to include all the necessary details a teacher would need to provide the best learning experience.</p>
         </div>
 	 </td></tr>
