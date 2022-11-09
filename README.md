@@ -92,7 +92,7 @@ Here, you can create a database of the students in your school and to include al
 	      	<br>
 	      <p><strong>HTML, CSS, JavaScript</strong></p>
 	      <br>
-		<p>A freelance client website built to highlight a Black-owned gaming bus company. This site helped them to secure multiple contracts worth thousands of dollars.</p>
+		<p>A freelance client website created to highlight a Black-owned gaming bus company. This site helped them to secure multiple contracts worth thousands of dollars.</p>
         </div>
 	        <!--BC-->
       
