@@ -1,7 +1,7 @@
 
 ![Full-Stack Web Developer](https://github.com/ChavGill/ChavGill/blob/main/full%20stack.jpg)
 <h1 align="center">Salutations, I'm Chavis Gill</h1>
-<h3 align="center">I am a Full Stack Web Developer. Continuous learning and problem-solving are essential to my core. Creativity and freedom of expression are necessary to help connect with my core audience. All of these skills intertwine to help me be the web developer I need to be and to help you solve the problems you aim to create solutions for. </h3>
+<h3 align="center">I am a Full Stack Web Developer. Continuous learning and problem-solving are essential to my core. Creativity and freedom of expression are necessary to help connect with my core audience. All of these skills intertwine to help me be the web developer I need to be and to help you solve the problems for which you aim to create solutions for. </h3>
 
 <p align="left"> <a href="https://twitter.com/iamkingchav" target="blank"><img src="https://img.shields.io/twitter/follow/iamkingchav?logo=twitter&style=for-the-badge" alt="iamkingchav" /></a> </p>
 
