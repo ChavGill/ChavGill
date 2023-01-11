@@ -50,7 +50,7 @@
 		<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 			</a>	
 			</a>
-			<p><strong>JavaScript, EJS, Node, Express, MongoDB, Bootstrap</strong></p>
+			<p><strong>JavaScript, CSS, EJS, Node, Express, MongoDB, Bootstrap</strong></p>
 			<br>
 		   <p>Black Chalkboard is a back office web tool to enhance the knowledge and experience of your entire teaching staff.
 Here, you can create a database of the students in your school and to include all the necessary details a teacher would need to provide the best learning experience.</p>
