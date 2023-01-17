@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Client Websites and Personal Apps and Projects**
 
-- 👯 I’m looking to collaborate on **becoming a valued member to your organization. I am open to work. Also, any open source projects, especially entry-level friendly. **
+- 👯 I’m looking to collaborate on **becoming a valued member to your organization. I am open to work. Also, any open source projects, especially entry-level. **
 
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://www.chavisgilldev.com/)
 
