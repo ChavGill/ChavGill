@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **becoming a valued member to your organization. I am open to full time work. Also, any open source projects, especially entry-level. **
 
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://www.chavisgilldev.com/)
+- 👨‍💻 Some of my projects are available at [Portfolio Website](https://www.chavisgilldev.com/)
 
 - 📫 How to reach me **chavistgill@gmail.com**
 
